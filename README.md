@@ -1,3 +1,5 @@
+# UNMAINTAINED REPO
+
 # M3Us to Folder
 
 Reads a folder containing playlists definitions (`*.m3u`) and creates a folder following your music library file paths

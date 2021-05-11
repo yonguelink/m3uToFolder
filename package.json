@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "async": "^2.6.0",
-    "filenamify": "^2.0.0",
-    "fs-extra": "^4.0.2",
+    "async": "^3.2.0",
+    "filenamify": "^4.3.0",
+    "fs-extra": "^10.0.0",
     "jsmediatags": "^3.8.1",
-    "yargs": "^10.0.3"
+    "yargs": "^17.0.1"
   },
   "version": "1.0.1"
 }
